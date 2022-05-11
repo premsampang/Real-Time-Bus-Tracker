@@ -2,7 +2,7 @@
 
 Title of the project: Real Time Bus Tracker
 
-Description of the project: The use of mapboxgl from JavaScrip library and marker helps to track the bus-stops from MIT to Harvard University.
+Description of the project: The use of mapboxgl from JavaScrip library and marker helps to track the bus-stops from MIT to Harvard University. It pulls the API data from Massachusetts Bay Transportation Authority (MBTA).
 
 How to Run: Make sure to get your own mapbox access token key from mapbox.com, and replace with it on map.js line-16.
 
